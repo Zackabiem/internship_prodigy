@@ -36,7 +36,7 @@ This repository contains five tasks assigned during the internship. Below is an 
 - Add, update, delete, and view contacts.
 - Persistent storage using files for contact data.
 
-
+**These were the projects I was able to complete**
 
 
 
